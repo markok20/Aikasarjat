@@ -1,7 +1,11 @@
 # Aikasarjat
+
 Aikasarja-analyytiikkaa kolmesta eri näkökulmasta
+
 Aikasarjaennustaminen - ei trendiä eikä kausivaihtelua
+
 Aikasarjaennustaminen - trendi
+
 Aikasarjaennustaminen - trendi ja kausivaihtelu
 
 Datoina:
