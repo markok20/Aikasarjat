@@ -4,7 +4,8 @@ Aikasarjaennustaminen - ei trendiä eikä kausivaihtelua
 Aikasarjaennustaminen - trendi
 Aikasarjaennustaminen - trendi ja kausivaihtelu
 
-Datoinan
+Datoina:
+
 1 Lentomatkustajien lukumääriä. 
 Lähde: https://www.kaggle.com/rakannimer/air-passengers
 Aukeni säädylliseen dataframeen seuraavasti:
